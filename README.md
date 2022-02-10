@@ -1,11 +1,11 @@
 # REGEX Tutorial
 
-In Developing you will often utilize a REGEX within your algorithms. In this documentation we will discuss REGEX in the use of a Matching Email expression. A Regular Expression is commonly refered to as a REGEX amongst developers. 
+In your journey of becomming a developer you will often utilize a REGEX within your algorithms. In this documentation we will discuss REGEX in the use of a Matching Email expression. A Regular Expression is commonly refered to as a REGEX amongst developers. 
 A Regular expression utilizes a combination of patterns to recognize charecters. 
 
 ## Summary
 The REGEX we will be discussing within this GIST is a Matching Email expression. We will deconstruct this following statement : /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/.  
-We will identify the all aspect which make up a Regular Expression such as Anchors, Quantifiers, Grouping Constructs and Charecter Escapes.
+We will identify all aspects which make up a Regular Expression such as Anchors, Quantifiers, Grouping Constructs and Charecter Escapes.
 
 ## Table of Contents
 
